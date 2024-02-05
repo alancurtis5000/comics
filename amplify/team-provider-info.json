@@ -10,6 +10,11 @@
       "StackName": "amplify-comics-dev-165504",
       "StackId": "arn:aws:cloudformation:us-west-1:342623833447:stack/amplify-comics-dev-165504/d14a2480-c3b8-11ee-be11-0679a5db0ad5",
       "AmplifyAppId": "d357kfr8kl3ya"
+    },
+    "categories": {
+      "auth": {
+        "comicsd54ef02b": {}
+      }
     }
   }
 }
